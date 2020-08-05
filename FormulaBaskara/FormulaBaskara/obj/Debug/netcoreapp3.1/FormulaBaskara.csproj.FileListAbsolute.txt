@@ -1,0 +1,13 @@
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\bin\Debug\netcoreapp3.1\FormulaBaskara.exe
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\bin\Debug\netcoreapp3.1\FormulaBaskara.deps.json
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\bin\Debug\netcoreapp3.1\FormulaBaskara.runtimeconfig.json
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\bin\Debug\netcoreapp3.1\FormulaBaskara.runtimeconfig.dev.json
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\bin\Debug\netcoreapp3.1\FormulaBaskara.dll
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\bin\Debug\netcoreapp3.1\FormulaBaskara.pdb
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.csprojAssemblyReference.cache
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.csproj.CoreCompileInputs.cache
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.AssemblyInfoInputs.cache
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.AssemblyInfo.cs
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.dll
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.pdb
+C:\C#\ws-vs2019\FormulaBaskara\FormulaBaskara\obj\Debug\netcoreapp3.1\FormulaBaskara.genruntimeconfig.cache

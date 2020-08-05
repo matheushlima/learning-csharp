@@ -1,0 +1,12 @@
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.exe
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.deps.json
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.runtimeconfig.json
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.runtimeconfig.dev.json
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.dll
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.pdb
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.AssemblyInfo.cs
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.dll
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.pdb
+C:\C#\ws-vs2019\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.genruntimeconfig.cache

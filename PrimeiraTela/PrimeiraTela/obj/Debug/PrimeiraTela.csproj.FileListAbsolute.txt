@@ -1,0 +1,10 @@
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\bin\Debug\PrimeiraTela.exe.config
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\bin\Debug\PrimeiraTela.exe
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\bin\Debug\PrimeiraTela.pdb
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.csprojAssemblyReference.cache
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.Form1.resources
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.Properties.Resources.resources
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.csproj.GenerateResource.cache
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.csproj.CoreCompileInputs.cache
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.exe
+C:\Users\Matheus H\source\repos\PrimeiraTela\PrimeiraTela\obj\Debug\PrimeiraTela.pdb

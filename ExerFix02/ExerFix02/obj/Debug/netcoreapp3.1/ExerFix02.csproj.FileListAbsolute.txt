@@ -1,0 +1,13 @@
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.csprojAssemblyReference.cache
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.AssemblyInfoInputs.cache
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.AssemblyInfo.cs
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.csproj.CoreCompileInputs.cache
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\bin\Debug\netcoreapp3.1\ExerFix02.exe
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\bin\Debug\netcoreapp3.1\ExerFix02.deps.json
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\bin\Debug\netcoreapp3.1\ExerFix02.runtimeconfig.json
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\bin\Debug\netcoreapp3.1\ExerFix02.runtimeconfig.dev.json
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\bin\Debug\netcoreapp3.1\ExerFix02.dll
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\bin\Debug\netcoreapp3.1\ExerFix02.pdb
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.dll
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.pdb
+C:\Users\Matheus H\source\repos\ExerFix02\ExerFix02\obj\Debug\netcoreapp3.1\ExerFix02.genruntimeconfig.cache

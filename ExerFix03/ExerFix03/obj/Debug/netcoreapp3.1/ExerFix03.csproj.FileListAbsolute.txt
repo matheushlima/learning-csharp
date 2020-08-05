@@ -1,0 +1,26 @@
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.exe
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.deps.json
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.runtimeconfig.json
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.runtimeconfig.dev.json
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.dll
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.pdb
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.AssemblyInfoInputs.cache
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.AssemblyInfo.cs
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.csproj.CoreCompileInputs.cache
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.dll
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.pdb
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.genruntimeconfig.cache
+C:\Users\Matheus H\source\repos\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.csprojAssemblyReference.cache
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.exe
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.deps.json
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.runtimeconfig.json
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.runtimeconfig.dev.json
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.dll
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.1\ExerFix03.pdb
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.csprojAssemblyReference.cache
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.AssemblyInfoInputs.cache
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.AssemblyInfo.cs
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.csproj.CoreCompileInputs.cache
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.dll
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.pdb
+C:\C#\ws-vs2019\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.1\ExerFix03.genruntimeconfig.cache

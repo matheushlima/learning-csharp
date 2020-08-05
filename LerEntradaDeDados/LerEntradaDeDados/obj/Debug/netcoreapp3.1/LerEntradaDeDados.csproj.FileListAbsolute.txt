@@ -1,0 +1,13 @@
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\bin\Debug\netcoreapp3.1\LerEntradaDeDados.exe
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\bin\Debug\netcoreapp3.1\LerEntradaDeDados.deps.json
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\bin\Debug\netcoreapp3.1\LerEntradaDeDados.runtimeconfig.json
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\bin\Debug\netcoreapp3.1\LerEntradaDeDados.runtimeconfig.dev.json
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\bin\Debug\netcoreapp3.1\LerEntradaDeDados.dll
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\bin\Debug\netcoreapp3.1\LerEntradaDeDados.pdb
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.AssemblyInfoInputs.cache
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.AssemblyInfo.cs
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.dll
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.pdb
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.genruntimeconfig.cache
+C:\C#\ws-vs2019\LerEntradaDeDados\LerEntradaDeDados\obj\Debug\netcoreapp3.1\LerEntradaDeDados.csprojAssemblyReference.cache

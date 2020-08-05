@@ -1,0 +1,13 @@
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\bin\Debug\netcoreapp3.1\ListaExercicio3.exe
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\bin\Debug\netcoreapp3.1\ListaExercicio3.deps.json
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\bin\Debug\netcoreapp3.1\ListaExercicio3.runtimeconfig.json
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\bin\Debug\netcoreapp3.1\ListaExercicio3.runtimeconfig.dev.json
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\bin\Debug\netcoreapp3.1\ListaExercicio3.dll
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\bin\Debug\netcoreapp3.1\ListaExercicio3.pdb
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.csprojAssemblyReference.cache
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.AssemblyInfoInputs.cache
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.AssemblyInfo.cs
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.dll
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.pdb
+C:\Users\Matheus H\source\repos\ListaExercicio3\ListaExercicio3\obj\Debug\netcoreapp3.1\ListaExercicio3.genruntimeconfig.cache

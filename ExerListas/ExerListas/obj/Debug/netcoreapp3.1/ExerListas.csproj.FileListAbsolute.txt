@@ -1,0 +1,13 @@
+C:\C#\ws-vs2019\ExerListas\ExerListas\bin\Debug\netcoreapp3.1\ExerListas.exe
+C:\C#\ws-vs2019\ExerListas\ExerListas\bin\Debug\netcoreapp3.1\ExerListas.deps.json
+C:\C#\ws-vs2019\ExerListas\ExerListas\bin\Debug\netcoreapp3.1\ExerListas.runtimeconfig.json
+C:\C#\ws-vs2019\ExerListas\ExerListas\bin\Debug\netcoreapp3.1\ExerListas.runtimeconfig.dev.json
+C:\C#\ws-vs2019\ExerListas\ExerListas\bin\Debug\netcoreapp3.1\ExerListas.dll
+C:\C#\ws-vs2019\ExerListas\ExerListas\bin\Debug\netcoreapp3.1\ExerListas.pdb
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.csprojAssemblyReference.cache
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.AssemblyInfoInputs.cache
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.AssemblyInfo.cs
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.csproj.CoreCompileInputs.cache
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.dll
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.pdb
+C:\C#\ws-vs2019\ExerListas\ExerListas\obj\Debug\netcoreapp3.1\ExerListas.genruntimeconfig.cache
