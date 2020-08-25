@@ -31,7 +31,7 @@ namespace Contratos
             for(int i = 1; i <= n; i++)
             {
                 Console.WriteLine($"Enter #{i} contract data: ");
-                Console.Write("Data (DD/M/YYYY)");
+                Console.Write("Data (DD/MM/YYYY): ");
                 DateTime date = DateTime.Parse(Console.ReadLine());
                 Console.Write("Value per hour: ");
                 double value = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -42,16 +42,15 @@ namespace Contratos
                 worker.AddContract(hourContract);
             }
 
-            Console.Write("Enter month and year to calculate income (MM/YYYY)");
+            Console.Write("Enter month and year to calculate income (MM/YYYY): ");
             string income = Console.ReadLine();
-            double totalincome = worker.Income(int.Parse(income.Substring(0, 1)), int.Parse(income.Substring(3)));
+            double totalincome = worker.Income(int.Parse(income.Substring(0, 2)), int.Parse(income.Substring(3)));
             
 
             Console.WriteLine("");
             Console.WriteLine("");
-
             Console.WriteLine(worker);
-            Console.WriteLine($"Income for {income}: " + totalincome);
+            Console.WriteLine($"Income for {income}: " + totalincome.ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }

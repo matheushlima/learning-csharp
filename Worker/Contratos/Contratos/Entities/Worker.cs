@@ -36,11 +36,11 @@ namespace Contratos.Entities
             Contracts.Remove(contract);
         }
 
-        public double Income(int year, int month)
+        public double Income(int month, int year)
         {
             foreach(HourContract contracts in Contracts)
             {
-                if(contracts.Date.Year == year && contracts.Date.Month == month)
+                if(contracts.Date.Month == month && contracts.Date.Year == year)
                 {
                     BaseSalary += contracts.TotalValue();
                 }
